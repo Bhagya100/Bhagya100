@@ -32,5 +32,5 @@
 <img src="https://img.shields.io/badge/-Heroku-222222?style=flat-square&amp;logo=heroku" alt="Heroku">
 <br></p>
 <hr>
-<p>Credit: <a href="https://github.com/Danushka2">Danushka2</a></p>
-<p>Last edited on: 30/06/2022</p> 
+<p>Credit: <a href="https://github.com/Bhagya100">Bhagyashree</a></p>
+
